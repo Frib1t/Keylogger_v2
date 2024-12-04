@@ -13,19 +13,12 @@
    pip install pynput
    ```
 ### **b. Crear una Clave de Aplicación en Gmail**
-Accede a tu cuenta de Gmail.
-
-Ve a la página de configuración de contraseñas de aplicación:
-
-myaccount.google.com/apppasswords
-
-Genera una clave de aplicación:
-
-Selecciona "Correo" como aplicación.
-
-Selecciona "Equipo personal" como dispositivo.
-
-Copia la clave generada (por ejemplo: yxki jwbt ebfu khvc).
+- Accede a tu cuenta de Gmail.
+- Ve a la página de configuración de contraseñas de aplicación: myaccount.google.com/apppasswords
+- Genera una clave de aplicación:
+- Selecciona "Correo" como aplicación.
+- Selecciona "Equipo personal" como dispositivo.
+- Copia la clave generada (por ejemplo: yxki jwbt ebfu khvc).
 
 ![Pasted image 20240628130101](https://github.com/user-attachments/assets/88b09cca-fac8-4f1a-893a-319198f6ae93)
 
