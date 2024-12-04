@@ -79,7 +79,9 @@ Una vez compilado, tendrás un archivo ejecutable en la carpeta dist.
 El resultado se verá del siguiente modo:
 ![Pasted image 20241204192049](https://github.com/user-attachments/assets/01054c9d-8156-4a8f-a3ce-c25776f76ae5)
 
-2. **Análisis en Virus Total**
+![Pasted image 20241204192321](https://github.com/user-attachments/assets/9c26ce4b-25a5-43aa-8e65-681894fde7b5)
+
+3. **Análisis en Virus Total**
 Puedes analizar el ejecutable en Virus Total para comprobar su estado.
 ![Pasted image 20241204192640](https://github.com/user-attachments/assets/16ce5656-e36b-4ed4-b355-19718fb753f6)
 
